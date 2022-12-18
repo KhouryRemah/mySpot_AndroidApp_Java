@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">mySpot  </string>
+    <string name="welcomeString">Welcome to mySpot</string>
+    <string name="labelString">I have an entry label</string>
+    <string name="visitorString">I\'m a visitor</string>
+    <string name="securityString">I\'m a security worker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ProfileString">Profile</string>
+    <string name="MapString">Map</string>
+    <string name="HomeString">Home</string>
+    <string name="NotificationsString">Notifications</string>
+    <string name="signOutString">Sign out</string>
+
+    <string name="MorningString">Good morning </string>
+    <string name="AfternoonString">Good afternoon </string>
+    <string name="EveningString">Good evening </string>
+    <string name="NightString">Good night </string>
+
+    <string name="UserString">User</string>
+    <string name="NameString">Name</string>
+    <string name="PhoneNoString">PhoneNo</string>
+    <string name="LabelColorString">Label Color</string>
+    <string name="AcessibleString">Accessible</string>
+    <string name="DormString">Dorm</string>
+    <string name="AlertProfileString">You must complete your information!</string>
+    <string name="SaveString">Save</string>
+    <string name="CancelString">Cancel</string>
+
+
+    <string name="parkingInformationStr">Expect day schedule</string>
+    <string name="findSpotStr">Find my spot</string>
+    <string name="planMyDayStr">Plan my day</string>
+
+
+    <string-array name="LabelColors">
+        <item>Red</item>
+        <item>Red and gold</item>
+        <item>Red and green</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>White</item>
+        <item>Blue and white</item>
+        <item>Blue and white Asat</item>
+        <item>Orange-White</item>
+        <item>Orange</item>
+        <item>Motorcycle</item>
+    </string-array>
+
+    <string-array name="Accessible">
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="Dorms">
+        <item>Lower</item>
+        <item>Upper</item>
+        <item>Senate</item>
+        <item>Neve America</item>
+        <item>Kfar Hasmacha</item>
+        <item>Canada</item>
+        <item>Eastern</item>
+        <item>Segel Zutar</item>
+        <item>Kfar Meshtalmim</item>
+        <item>Kessel</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="enter_building_or_area_symbol">Enter building or area symbol</string>
+    <string name="enter_a_specific_date">Enter a specific date</string>
+    <string name="we_will_take_you_to_the_nearest_parking_spot">*We will take you to the nearest parking spot.</string>
+    <string name="building">Building</string>
+    <string name="area">Area</string>
+    <string name="would_you_like_us_to_take_you_to_a_specific">Would you like us to take you to a specific:</string>
+    <string name="please_note_in_order_to_know_what_to_write_in_the_section_below_we_recommend_you_to_click_on_the_maps_button_at_the_top_right_corner_and_to_check_the_building_parking_area_symbol">Please Note: In order to know what to write in the section below we recommend you to click on the maps button at the top right corner and to check the building / parking area symbol.</string>
+    <string name="take_me_to_myspot">Take me to mySpot</string>
+    <string name="todo">TODO</string>
+    <string name="would_you_like_to_see_the_expected_valid_spots_schedule_in_a_specific">Would you like to see the expected valid spots schedule in a specific:</string>
+    <string name="check">Check</string>
+    <string name="loading">Loading...</string>
+    <string name="change_map_style">Change map style</string>
+    <string name="red_markers_point_to_buildings_n_green_ones_point_to_parking_areas_n_each_marker_have_a_symbol_use_them_to_find_out_the_desired_symbol">-Red markers point to buildings.\n-Green ones point to parking areas.\n-Each marker have a symbol, use them to find out the desired symbol.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+

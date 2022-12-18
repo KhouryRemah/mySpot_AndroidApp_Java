@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amita</item>
+        <item>@font/amita_bold</item>
+        <item>@font/asap</item>
+        <item>@font/atma_medium</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/cairo_semibold</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/cherry_cream_soda</item>
+        <item>@font/chewy</item>
+        <item>@font/chicle</item>
+        <item>@font/courgette</item>
+        <item>@font/delius_swash_caps</item>
+        <item>@font/indie_flower</item>
+        <item>@font/marck_script</item>
+        <item>@font/neucha</item>
+        <item>@font/salsa</item>
+    </array>
+</resources>
